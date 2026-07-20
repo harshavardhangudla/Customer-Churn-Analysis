@@ -194,8 +194,8 @@ jupyter notebook
 
 **Harsha Vardhan Gudla**
 
-- GitHub: https://github.com/yourusername
-- LinkedIn: https://linkedin.com/in/yourprofile
+- GitHub: https://github.com/harshavardhangudla
+- LinkedIn: https://linkedin.com/in/harsha-vardhan-gudla
 
 ---
 
